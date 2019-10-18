@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoRV</string>
+    <string name="til_hint_add_new_task">Add new Task</string>
+    <string name="til_hint_add_new_category">Add new category</string>
+</resources>
